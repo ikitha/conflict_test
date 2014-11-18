@@ -1,7 +1,5 @@
-
-
-def adder x, y
-	x + y
+def add x, y, i
+	x + y + i
 end
 
 def subtracter x, y
