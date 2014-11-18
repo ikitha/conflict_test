@@ -1,9 +1,9 @@
-def add x, y
-	x + y
+def add x, y, i
+	x + y + i
 end
 
-def subtract x, y
-	x-y
+def divide x, y
+	x/y
 end
 
 def multiply x, y
