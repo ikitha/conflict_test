@@ -1,11 +1,13 @@
-def addyy x, y
+
+
+def adder x, y
 	x + y
 end
 
-def subtractyy x, y
+def subtracter x, y
 	x-y
 end
 
-def multiplyy x, y
+def multiply x, y
 	x * y
 end
